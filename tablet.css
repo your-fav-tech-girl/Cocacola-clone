@@ -1,0 +1,169 @@
+html{
+    font-size:62.50%;
+}
+header{
+    position: relative;
+}
+.small{
+    position:absolute;
+    top:1.875rem;
+    left:0.625rem;
+}
+.navbar{
+    display:none;
+}
+.big{
+ position:absolute;
+ top:7rem;
+ left:29.75rem;
+}
+.material-symbols-outlined{
+    position: absolute;
+    top:1.875rem;
+    left:69.75rem;
+}
+.section1{
+ position:relative;
+ top:21.875rem;
+ left:30px;
+ background-position:center;
+ width:90vw;
+ height:50vh;
+}
+.section2 {
+    position:relative;
+    top:350px;
+    left:0px;
+    height:300vh;
+}
+.coca h1{
+position:absolute;
+left:330px;
+}
+.coca h2 {
+ position:absolute;
+ top:1150px;
+ left:270px;
+ text-align:center;
+ font-size:2.45rem;
+}
+.coca p{
+ position:absolute;
+ top:1200px;
+ left:100px;
+ width:75vw;
+ font-size:1.4rem;
+ text-align:center;
+}
+.section2 img{
+    position:absolute;
+    top:180px;
+    left:80px;
+    width:78vw;
+}
+.section3{
+ position:relative;
+ height:230vh;
+top:20px;
+}
+.section3 img{
+position: absolute;
+top:50px;
+left:60px;
+width:85vw;
+}
+.cola1 h3{
+ position:absolute;
+ top:1100px;
+ left:250px;
+ width:65vw;
+ font-size:2.5rem;
+}
+.cola1 p{
+    position: absolute;
+    top:1150px;
+    left:130px;
+    width:65vw;
+    font-size:1.7rem;
+    text-align: center;
+}
+.section4{
+ position:relative;
+ top:0px;
+ height:260vh;
+}
+.section4 img{
+    position:absolute;
+    top:10.2rem;
+    left:7.75rem;
+    width:80vw;
+   border:1px solid rgb(255, 254, 254);
+ border-radius:1.25rem;
+}
+.cola2 h3{
+ position: absolute;
+ top:1090px;
+ left:330px;
+ font-size:1.7rem;
+}
+.cola2 p{
+position: absolute;
+top:113.75rem;
+left:15.375rem;
+width:60vw;
+font-size:1.4rem;
+text-align:center;
+}
+.section5{
+position:absolute;
+top:455rem;
+left:8.25rem;
+width:76vw;
+}
+form{
+position: absolute;
+top:6.25rem;
+left:40rem;
+}
+.footer{
+ top:0px;
+ height:80vh;
+ 
+}
+.footer li{
+    list-style-type:none;
+    color:white;
+    font-size:1.25rem;
+    
+}
+.footer2 {
+ font-size:0.938rem;
+ top:18.025rem;
+ left:32.25rem;
+}
+.last{
+ position:absolute;
+ top:39rem;
+ left:5.625rem;
+ font-size:0.938rem;
+}
+.white{
+ width:75vw;
+}
+.white2{
+ width:75vw;
+}
+.section5 h5 {
+    position:absolute;
+    top:30px;
+    left:50px;
+    color:white;
+    font-size:2rem;
+   }
+.section5 p {
+    position:absolute;
+    top:10px;
+    left:450px;
+    color:white;
+    font-size:1.25rem;
+   }
